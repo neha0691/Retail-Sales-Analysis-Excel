@@ -84,6 +84,8 @@ Total Quantity Sold	  --  2,514
 Average Order Value   --	$456
 These KPIs provide a high-level overview of the business's sales performance.
 
+![KPI Cards](Images/KPI_Cards.png)
+
 # Dashboard Features
 The Retail Sales Performance Dashboard includes the following visualizations:
 
