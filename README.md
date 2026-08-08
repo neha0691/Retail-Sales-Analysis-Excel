@@ -72,7 +72,7 @@ Excel Functions Used:
 # Dashboard Preview
 The dashboard provides a visual summary of retail sales performance through KPI cards and multiple charts. Interactive Filters: Gender, Product Category, and Month.
 
-<img width="1348" height="706" alt="image" src="https://github.com/user-attachments/assets/5a914dd5-dd53-4231-9659-326b06b4a0ec" />
+![Retail Sales Dashboard](Images/Retail_Sales_Dashboard.png)
 
 # KPI Summary
 The dashboard includes four key performance indicators:
