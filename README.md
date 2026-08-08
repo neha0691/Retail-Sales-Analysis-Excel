@@ -164,8 +164,10 @@ Business Insights
 - Rebuilding the dashboard in Power BI.
 -  Adding year-over-year sales analysis.
 - Performing customer segmentation.
-- Analysing customer purchasing frequency.
+- Analysing customer purchasing frequency.  
 - Adding more advanced Excel functions and dynamic reporting.
 - Exploring predictive sales analysis using Python.
 
 
+**Neha Gupta**
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
